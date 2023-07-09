@@ -9,7 +9,7 @@
 
 ---
 
-⏰ Updated on Mon, 15 May 2023 10:37 IST
+⏰ Updated on Mon, 8 July 2023 10:37 IST
 
 hi, i'm Ajay Chaudhari, a passionate self-taught frontend developer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
