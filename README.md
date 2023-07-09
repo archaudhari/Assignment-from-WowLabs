@@ -1,5 +1,7 @@
 # Assignment-from-WowLabs
 
+📌APP URL="https://assignment-wowlabs.netlify.app/"
+
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/stackblitz-starters-nsq38m)
 
 ﻿# WowLabs-Assignment-Submission
